@@ -6,4 +6,9 @@
 
 <strong>User Story:</strong> When I visit that shortened URL, it will redirect me to my original link.
 
+Example of usage:
+https://url-shortener-application.glitch.me/new/https://google.com
+https://url-shortener-application.glitch.me/r/9565
+
+
 https://url-shortener-application.glitch.me/
