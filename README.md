@@ -8,7 +8,8 @@
 
 Example of usage:
 https://url-shortener-application.glitch.me/new/https://google.com
-https://url-shortener-application.glitch.me/r/9565
+
+https://url-shortener-application.glitch.me/r/9064
 
 
 https://url-shortener-application.glitch.me/
