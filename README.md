@@ -1,4 +1,4 @@
-<a target="_blank" href="https://www.freecodecamp.org/challenges/url-shortener-microservice">A Free Code Camp</a> full stack JavaScript app
+<a target="_blank" href="https://www.freecodecamp.org/challenges/url-shortener-microservice">A Free Code Camp</a> JavaScript App
 
 <strong>User Story:</strong> I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.
 
